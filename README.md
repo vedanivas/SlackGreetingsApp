@@ -6,7 +6,7 @@ This automation demonstrates sending a greeting to channel.
 
 - [Setup](#setup)
   - [Install the Slack CLI](#install-the-slack-cli)
-  - [Clone the Sample](#clone-the-sample)
+  - [Clone the Repository](#clone-the-repository)
 - [Create a Link Trigger](#create-a-link-trigger)
 - [Running Your Project Locally](#running-your-project-locally)
 - [Testing](#testing)
@@ -30,7 +30,7 @@ To use this sample, you need to install and configure the Slack CLI.
 Step-by-step instructions can be found in our
 [Quickstart Guide](https://api.slack.com/automation/quickstart).
 
-### Clone the Sample
+### Clone the Repository
 
 Start by cloning this repository:
 
