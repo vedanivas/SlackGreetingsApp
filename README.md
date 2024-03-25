@@ -36,10 +36,10 @@ Start by cloning this repository:
 
 ```zsh
 # Clone this project onto your machine
-$ slack create hello-world -t slack-samples/deno-hello-world
+$ git clone https://github.com/vedanivas/SlackGreetingsApp.git
 
 # Change into the project directory
-$ cd hello-world
+$ cd SlackGreetingsApp
 ```
 
 ## Running Your Project Locally
